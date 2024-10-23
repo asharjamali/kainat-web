@@ -49,7 +49,7 @@ body::-webkit-scrollbar-thumb {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.6), rgba(4, 9, 30, 0.6)), url(../image/background.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.6), rgba(4, 9, 30, 0.6)), url(/IMAGE/background.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -476,7 +476,7 @@ h3 {
 .ctn {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../image/kis.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/IMAGE/kis.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -494,7 +494,7 @@ h3 {
 .ctn:hover {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../image/kis.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/IMAGE/kis.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
